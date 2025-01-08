@@ -2,7 +2,7 @@
 Scrapping weather APIs with Go to store them in a local MariaDB instance
 
 
-# Installation
+## Installation
 
 ```
 # Download
@@ -19,4 +19,10 @@ source ~/.profile
 
 # verify
 go version
+```
+
+
+## Run
+```
+go run <file_name.go>
 ```
